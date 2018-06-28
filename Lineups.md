@@ -1,14 +1,14 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Lineups
+subtitle: Uma lista dos lineups
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+Os vários lineups dos roteiros
 
-1. Robert Burton: *The Anatomy of Melancholy*
+1.Por imagens*
 2. Robert Musil: *The Man Without Qualities*
 3. Kazuo Ishiguro: *The Unconsoled*
 4. Malcolm Lowry: *Under the Volcano*
