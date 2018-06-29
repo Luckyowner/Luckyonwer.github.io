@@ -2,13 +2,12 @@
 title: Lineups
 subtitle: Uma lista dos lineups
 layout: "page"
-icon: fa-book
+icon: fa-signal
 order: 3
 ---
 
-Os vários lineups dos roteiros
-
 1.Por imagens*
+![Lineup 1]({{ "/assets/images/screenshot.png" | absolute_url }})
 2. Robert Musil: *The Man Without Qualities*
 3. Kazuo Ishiguro: *The Unconsoled*
 4. Malcolm Lowry: *Under the Volcano*
